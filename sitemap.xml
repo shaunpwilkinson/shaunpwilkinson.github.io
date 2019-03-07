@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/publication/bioinfo2019/</loc>
+      <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/core2019/</loc>
       <lastmod>2019-01-02T00:00:00+00:00</lastmod>
     </url>
@@ -167,18 +176,8 @@
     
     <url>
     
-      <loc>/publication_types/0/</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -307,7 +306,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
