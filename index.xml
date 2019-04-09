@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Advances and limitations of aquatic ecosystem monitoring with environmental DNA </title>
+      <link>/talk/wffft/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/wffft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>aphid: an R package for analysis with profile hidden Markov models.</title>
       <link>/publication/bioinfo2019/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
@@ -2003,15 +2012,6 @@ and a summary of the package is published in the
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>/publication/core2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intra-genomic variation in symbiotic dinoflagellates: recent divergence or recombination between lineages?</title>
-      <link>/publication/bmc/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/bmc/</guid>
       <description></description>
     </item>
     
